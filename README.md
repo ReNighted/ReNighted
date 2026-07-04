@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" width="100%" alt="A peaceful night sky over a mountain range" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1400&color=C9D6F2&center=true&vCenter=true&width=560&height=45&lines=ReNighted;knighted+by+the+quiet+hours;usually+online+after+dark" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1400&color=C9D6F2&center=true&vCenter=true&width=560&height=45&lines=hi+welcome+to+my+profile+:)" alt="Typing SVG" />
 
 </div>
 
