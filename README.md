@@ -32,13 +32,15 @@ Usually awake at most hours of the day and night, UTC+3
 
 <div align="center">
 
-[![Discord Presence]([https://lanyard.cnrad.dev/api/1060803221167280159](https://api.lanyard.rest/v1/users/1060803221167280159)?theme=dark&bg=0D1B2A&borderRadius=14px&animated=true&idleMessage=quiet%20right%20now)](https://discord.com/users/1060803221167280159)
+<a href="https://discord.com/users/1060803221167280159"><img src="./discord-status.svg" alt="Discord presence for renighted" width="380" height="96" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=maildotru&logoColor=EAF1FF)](mailto:renighted@gmail.com)
 
 </div>
 
