@@ -16,7 +16,7 @@ Usually awake at most hours of the day and night, UTC+3
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ReNighted&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=C9D6F2&icon_color=7F9CF5&text_color=B8C4D9&ring_color=7F9CF5" alt="ReNighted's GitHub stats" height="165" />
+
 
 
 </div>
