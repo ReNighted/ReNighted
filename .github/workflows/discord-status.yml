@@ -23,32 +23,35 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Generate discord-status.svg
-        run: python discord_status.py
-
-      - name: Generate local-time.svg
-        run: python local_time.py
-
-      - name: Commit and push if changed
+      - name: Generate and push widgets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add discord-status.svg local-time.svg
 
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "Update profile widgets"
-
-          # The schedule can overlap with a manual push to the repo, which
-          # makes a plain 'git push' get rejected as non-fast-forward.
-          # Rebase onto the latest remote state and retry a few times.
+          # These files are regenerated from scratch on every run, so there's
+          # nothing to merge if two runs overlap. Instead of rebasing (which
+          # will conflict almost every time, since the same lines change),
+          # always regenerate on top of the latest remote state and retry.
           for i in 1 2 3 4 5; do
-            if git pull --rebase origin main && git push origin main; then
+            git fetch origin main
+            git reset --hard origin/main
+
+            python discord_status.py
+            python local_time.py
+
+            git add discord-status.svg local-time.svg
+
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
               exit 0
             fi
+
+            git commit -m "Update profile widgets"
+
+            if git push origin main; then
+              exit 0
+            fi
+
             echo "Push attempt $i failed, retrying..."
             sleep $((RANDOM % 10 + 5))
           done
