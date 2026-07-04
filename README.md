@@ -40,8 +40,6 @@ Usually awake at most hours of the day and night, UTC+3
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=maildotru&logoColor=EAF1FF)](mailto:renighted@gmail.com)
-
 </div>
 
 <br/>
