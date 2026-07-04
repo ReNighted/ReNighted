@@ -23,17 +23,14 @@ Usually awake at most hours of the day and night, UTC+3
 
 <br/>
 
-
 <div align="center">
 
-[![Portfolio]
-[![Discord]
-[![Email]
+
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub>✦ &nbsp; usually somewhere between a mountain and a terminal &nbsp; ✦</sub>
+<sub>✦ &nbsp; usually somewhere between a mountain &nbsp; ✦</sub>
 </div>
