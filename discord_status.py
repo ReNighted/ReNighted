@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-"""Fetch Discord presence from the Lanyard REST API and render it as a
-small SVG card matching the profile's night-sky palette."""
 import json
 import urllib.request
 from xml.sax.saxutils import escape
@@ -17,9 +15,9 @@ STATUS_COLOR = {
 }
 
 IDLE_MESSAGE = {
-    "online": "wide awake",
-    "idle": "stepped away for a bit",
-    "dnd": "heads down — do not disturb",
+    "online": "once in a miracle",
+    "idle": "maybe on, maybe not",
+    "dnd": "moment of focus",
     "offline": "asleep under the mountains",
 }
 
