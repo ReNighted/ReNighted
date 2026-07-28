@@ -15,9 +15,9 @@ Usually awake at most hours of the day and night
 <div align="center">
 <sub>
 🏢 &nbsp;matching with my friends
-&nbsp;<a href="https://github.com/suedevinyl"><img src="https://github.com/suedevinyl.png" width="20" height="20" align="absmiddle" alt="suedevinyl" /> @suedevinyl</a>
+&nbsp;<a href="https://github.com/kierxnn"><img src="https://github.com/kierxnn.png" width="20" height="20" align="absmiddle" alt="kierxnn" /> @kierxnn</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/S-T-0-P"><img src="https://github.com/S-T-0-P.png" width="20" height="20" align="absmiddle" alt="S-T-0-P" /> @Nico</a>
+<a href="https://github.com/altschmerzz"><img src="https://github.com/altschmerzz.png" width="20" height="20" align="absmiddle" alt="altschmerzz " /> @Nico</a>
 <br/>
 ✉️ &nbsp;<a href="mailto:renighted@gmail.com">renighted@gmail.com</a>
 </sub>
