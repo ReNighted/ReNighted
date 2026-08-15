@@ -19,6 +19,13 @@ Usually awake at most hours of the day and night
 &nbsp;·&nbsp;
 <a href="https://github.com/altschmerzz"><img src="https://github.com/altschmerzz.png" width="20" height="20" align="absmiddle" alt="altschmerzz " /> @Nico</a>
 <br/>
+&nbsp;party (love ya guys)
+&nbsp;<a href="https://github.com/sunsetstealer"><img src="https://github.com/Itrapped-hearteyes.png" width="20" height="20" align="absmiddle" alt="Itrapped-hearteyes" /> @Itrapped-hearteyes</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/altschmerzz"><img src="https://github.com/JuliaThaWitch.png" width="20" height="20" align="absmiddle" alt="JuliaThaWitch " /> @JuliaThaWitch</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/altschmerzz"><img src="https://github.com/EGGSTHEBUM.png" width="20" height="20" align="absmiddle" alt="EGGSTHEBUM " /> @EGGSTHEBUM</a>
+<br/>  
 ✉️ &nbsp;<a href="mailto:renighted@gmail.com">renighted@gmail.com</a>
 </sub>
 
