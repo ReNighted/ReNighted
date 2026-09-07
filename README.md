@@ -15,7 +15,7 @@ Usually awake at most hours of the day and night
 <div align="center">
 <sub>
 🏢 &nbsp;the trio <3
-&nbsp;<a href="https://github.com/sunsetstealer"><img src="https://github.com/sunsetstealer.png" width="20" height="20" align="absmiddle" alt="sunsetstealer" /> @sunsetstealer</a>
+&nbsp;<a href="https://github.com/suohkunr"><img src="https://github.com/suohkun.png" width="20" height="20" align="absmiddle" alt="suohkun" /> @suohkun</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/unchanged-man"><img src="https://github.com/unchanged-man.png" width="20" height="20" align="absmiddle" alt="unchanged-man " /> @Nico</a>
 <br/>
