@@ -15,16 +15,16 @@ Usually awake at most hours of the day and night
 <div align="center">
 <sub>
 🏢 &nbsp;the trio <3
-&nbsp;<a href="https://github.com/suohkunr"><img src="https://github.com/suohkun.png" width="20" height="20" align="absmiddle" alt="suohkun" /> @suohkun</a>
+&nbsp;<a href="https://github.com/twelvhours"><img src="https://github.com/twelvhours.png" width="20" height="20" align="absmiddle" alt="twelvhours" /> @twelvhours</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/unchanged-man"><img src="https://github.com/unchanged-man.png" width="20" height="20" align="absmiddle" alt="unchanged-man " /> @Nico</a>
+<a href="https://github.com/wieditz"><img src="https://github.com/wieditz.png" width="20" height="20" align="absmiddle" alt="wieditz " /> @Nico</a>
 <br/>
 &nbsp;party (love ya guys)
-&nbsp;<a href="https://github.com/sunsetstealer"><img src="https://github.com/Itrapped-hearteyes.png" width="20" height="20" align="absmiddle" alt="Itrapped-hearteyes" /> @Itrapped-hearteyes</a>
+&nbsp;<a href="https://github.com/Itrapped-hearteyes"><img src="https://github.com/Itrapped-hearteyes.png" width="20" height="20" align="absmiddle" alt="Itrapped-hearteyes" /> @Itrapped-hearteyes</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/altschmerzz"><img src="https://github.com/JuliaThaWitch.png" width="20" height="20" align="absmiddle" alt="JuliaThaWitch " /> @JuliaThaWitch</a>
+<a href="https://github.com/JuliaThaWitch"><img src="https://github.com/JuliaThaWitch.png" width="20" height="20" align="absmiddle" alt="JuliaThaWitch " /> @JuliaThaWitch</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/altschmerzz"><img src="https://github.com/EGGSTHEBUM.png" width="20" height="20" align="absmiddle" alt="EGGSTHEBUM " /> @EGGSTHEBUM</a>
+<a href="https://github.com/EGGSTHEBUM"><img src="https://github.com/EGGSTHEBUM.png" width="20" height="20" align="absmiddle" alt="EGGSTHEBUM " /> @EGGSTHEBUM</a>
 <br/>  
 ✉️ &nbsp;<a href="mailto:renighted@gmail.com">renighted@gmail.com</a>
 </sub>
