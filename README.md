@@ -17,7 +17,7 @@ Usually awake at most hours of the day and night
 🏢 &nbsp;the trio <3
 &nbsp;<a href="https://github.com/twelvhours"><img src="https://github.com/twelvhours.png" width="20" height="20" align="absmiddle" alt="twelvhours" /> @twelvhours</a>
 &nbsp;·&nbsp;
-<a href="https://github.com/wieditz"><img src="https://github.com/wieditz.png" width="20" height="20" align="absmiddle" alt="wieditz " /> @Nico</a>
+<a href="https://github.com/NightB-Jasmine"><img src="https://github.com/NightB-Jasmine.png" width="20" height="20" align="absmiddle" alt="NightB-Jasmine" /> @Nico</a>
 <br/>
 &nbsp;party (love ya guys)
 &nbsp;<a href="https://github.com/Itrapped-hearteyes"><img src="https://github.com/Itrapped-hearteyes.png" width="20" height="20" align="absmiddle" alt="Itrapped-hearteyes" /> @Itrapped-hearteyes</a>
