@@ -20,7 +20,7 @@ Usually awake at most hours of the day and night
 <a href="https://github.com/NightB-Jasmine"><img src="https://github.com/NightB-Jasmine.png" width="20" height="20" align="absmiddle" alt="NightB-Jasmine" /> @Nico</a>
 <br/>
 &nbsp;party (love ya guys)
-&nbsp;<a href="https://github.com/Itrapped-hearteyes"><img src="https://github.com/Itrapped-hearteyes.png" width="20" height="20" align="absmiddle" alt="Itrapped-hearteyes" /> @Itrapped-hearteyes</a>
+&nbsp;<a href="https://github.com/cOOlerkidd-darkvints"><img src="https://github.com/cOOlerkidd-darkvints.png" width="20" height="20" align="absmiddle" alt="cOOlerkidd-darkvints" /> @cOOlerkidd-darkvints</a>
 &nbsp;·&nbsp;
 <a href="https://github.com/JuliaThaWitch"><img src="https://github.com/JuliaThaWitch.png" width="20" height="20" align="absmiddle" alt="JuliaThaWitch " /> @JuliaThaWitch</a>
 &nbsp;·&nbsp;
