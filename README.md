@@ -14,6 +14,8 @@ Usually awake at most hours of the day and night
 
 <div align="center">
 <sub>
+🏢 &nbsp;my wifey <3333
+&nbsp;<a href="https://github.com/DessiXOXO"><img src="https://github.com/DessiXOXO.png" width="20" height="20" align="absmiddle" alt="DessiXOXO" /> @DessiXOXO</a>  
 🏢 &nbsp;the trio <3
 &nbsp;<a href="https://github.com/vincentsdiary"><img src="https://github.com/vincentsdiary.png" width="20" height="20" align="absmiddle" alt="vincentsdiary" /> @vincentsdiary</a>
 &nbsp;·&nbsp;
