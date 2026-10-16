@@ -1,68 +1,48 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="A peaceful night sky over a mountain range" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1400&color=C9D6F2&center=true&vCenter=true&width=560&height=45&lines=hii+welcome!!!+:)" alt="Typing SVG" />
+<img src="./assets/hero.svg" width="100%" alt="renighted, written across a cold, foggy, starry night over the mountains" />
 
 </div>
 
 ### 🦌 about
 
-I like quiet hours and pulling things apart to see how they actually work
+i like quiet hours and pulling things apart to see how they actually work. usually awake at most hours of the day and night, which the clock below will happily confirm.
 
-Usually awake at most hours of the day and night
-
-<div align="center">
-<sub>
-🏢 &nbsp;my wifey <3333
-&nbsp;<a href="https://github.com/DessiXOXO"><img src="https://github.com/DessiXOXO.png" width="20" height="20" align="absmiddle" alt="DessiXOXO" /> @DessiXOXO</a>  
-🏢 &nbsp;the trio <3
-&nbsp;<a href="https://github.com/vincentsdiary"><img src="https://github.com/vincentsdiary.png" width="20" height="20" align="absmiddle" alt="vincentsdiary" /> @vincentsdiary</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/NightB-Jasmine"><img src="https://github.com/NightB-Jasmine.png" width="20" height="20" align="absmiddle" alt="NightB-Jasmine" /> @Nico</a>
-<br/>
-&nbsp;party (love ya guys)
-&nbsp;<a href="https://github.com/cOOlerkidd-darkvints"><img src="https://github.com/cOOlerkidd-darkvints.png" width="20" height="20" align="absmiddle" alt="cOOlerkidd-darkvints" /> @cOOlerkidd-darkvints</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/JuliaThaWitch"><img src="https://github.com/JuliaThaWitch.png" width="20" height="20" align="absmiddle" alt="JuliaThaWitch " /> @JuliaThaWitch</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/EGGSTHEBUM"><img src="https://github.com/EGGSTHEBUM.png" width="20" height="20" align="absmiddle" alt="EGGSTHEBUM " /> @EGGSTHEBUM</a>
-<br/>  
-✉️ &nbsp;<a href="mailto:renighted@gmail.com">renighted@gmail.com</a>
-</sub>
-
-<br/>
-
-<img src="./local-time.svg" alt="Current local time" width="190" height="30" />
-
-</div>
-
-<br/>
+right now most of those hours go into **[PRC](https://prcblacksite.github.io/)**, a roleplay game on roblox where the site isn't built yet. everyone digs it out of a mountain and builds it together, and whatever gets built stays. the doors open on 31 october.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ReNighted&hide_border=true&background=0D1B2A&stroke=1C2F5C&ring=7F9CF5&fire=E4DCC4&currStreakLabel=C9D6F2&sideLabels=B8C4D9&currStreakNum=EAF1FF&sideNums=EAF1FF&dates=6B7A9E" alt="ReNighted's GitHub streak" height="165" />
+<a href="https://prcblacksite.github.io/"><img src="https://sky.renighted-dev.workers.dev/prc.svg" width="49%" alt="currently building PRC" /></a>
+<a href="https://discord.com/users/1060803221167280159"><img src="https://sky.renighted-dev.workers.dev/presence.svg" width="49%" alt="renighted on Discord" /></a>
+
+<img src="https://sky.renighted-dev.workers.dev/clock.svg" width="440" alt="my local time, right now" />
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+### ☾ under the same sky
 
 <div align="center">
 
-<a href="https://discord.com/users/1060803221167280159"><img src="./discord-status.svg" alt="Discord presence for renighted" width="380" height="96" /></a>
+<a href="https://github.com/DessiXOXO"><img src="https://sky.renighted-dev.workers.dev/pair/DessiXOXO.svg?name=Dessi&label=my%20wifey%20%3C3333&with=ReNighted" width="440" alt="Dessi, my wifey" /></a>
+
+<sub>the trio &lt;3</sub><br />
+<a href="https://github.com/vincentsdiary"><img src="https://sky.renighted-dev.workers.dev/friend/vincentsdiary.svg?name=vince&label=%40vincentsdiary" width="216" alt="vince, @vincentsdiary" /></a>
+<a href="https://github.com/NightB-Jasmine"><img src="https://sky.renighted-dev.workers.dev/friend/NightB-Jasmine.svg?name=nico&label=%40NightB-Jasmine" width="216" alt="nico, @NightB-Jasmine" /></a>
+
+<sub>party (love ya guys)</sub><br />
+<a href="https://github.com/JuliaThaWitch"><img src="https://sky.renighted-dev.workers.dev/friend/JuliaThaWitch.svg?name=julia&label=%40JuliaThaWitch" width="216" alt="julia, @JuliaThaWitch" /></a>
+<a href="https://github.com/EGGSTHEBUM"><img src="https://sky.renighted-dev.workers.dev/friend/EGGSTHEBUM.svg?name=eggs&label=%40EGGSTHEBUM" width="216" alt="eggs, @EGGSTHEBUM" /></a>
 
 </div>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D1B2A?style=for-the-badge&logo=maildotru&logoColor=EAF1FF)](mailto:renighted@gmail.com)
+<a href="mailto:renighted@gmail.com"><img src="./assets/say-hi.svg" width="220" alt="say hi: renighted@gmail.com" /></a>
 
 </div>
 
-<br/>
-
-<div align="center">
-<sub>✦ &nbsp; usually somewhere between a mountain and a terminal &nbsp; ✦</sub>
-</div>
+<img src="./assets/footer.svg" width="100%" alt="usually somewhere between a mountain and a terminal" />
