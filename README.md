@@ -28,7 +28,7 @@ right now most of those hours go into **[PRC](https://prcblacksite.github.io/)**
 <a href="https://github.com/DessiXOXO"><img src="https://sky.renighted-dev.workers.dev/pair/DessiXOXO.svg?name=Dessi&label=my%20wifey%20%3C3333&with=ReNighted" width="440" alt="Dessi, my wifey" /></a>
 
 <sub>the trio &lt;3</sub><br />
-<a href="https://github.com/vincentsdiary"><img src="https://sky.renighted-dev.workers.dev/friend/vincentsdiary.svg?name=vince&label=%40vincentsdiary" width="216" alt="vince, @vincentsdiary" /></a>
+<a href="https://github.com/BIoodlust"><img src="https://sky.renighted-dev.workers.dev/friend/BIoodlust.svg?name=vince&label=%40BIoodlust" width="216" alt="vince, @BIoodlust" /></a>
 <a href="https://github.com/NightB-Jasmine"><img src="https://sky.renighted-dev.workers.dev/friend/NightB-Jasmine.svg?name=nico&label=%40NightB-Jasmine" width="216" alt="nico, @NightB-Jasmine" /></a>
 
 <sub>party (love ya guys)</sub><br />
